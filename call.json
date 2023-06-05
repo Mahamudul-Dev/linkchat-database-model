@@ -1,0 +1,20 @@
+{
+      "callId": "123456789",
+      "participants": [
+            {
+                  "uid": "user1",
+                  "name": "John",
+                  "isHost": true
+            },
+            {
+                  "uid": "user2",
+                  "name": "Jane",
+                  "isHost": false
+            }
+      ],
+      "startTime": "2023-06-05T10:00:00Z",
+      "endTime": "2023-06-05T10:30:00Z",
+      "duration": 1800,
+      "mediaType": "audio",
+      "status": "completed"
+}

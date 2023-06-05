@@ -1,0 +1,18 @@
+{
+      "id": 1,
+      "name": "",
+      "photo": "",
+      "createdAt": "2023-06-04T10:30:00Z",
+      "participants": [
+            {
+                  "id": 1,
+                  "uid": 12786098,
+                  "name": "Abdul Motaleb",
+                  "photo": "",
+                  "tagline": "",
+                  "gender": "Male",
+                  "isActive": true,
+                  "lastActive": ""
+            }
+      ]
+}

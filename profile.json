@@ -1,0 +1,29 @@
+{
+      "id": 1,
+      "uid": 12786098,
+      "name": "Abdul Motaleb",
+      "photo": "",
+      "tagline": "",
+      "dob": "",
+      "gender": "Male",
+      "isActive": true,
+      "lastActive": "",
+      "followers": [
+            {
+                  "id": 2,
+                  "uid": 23845729,
+                  "name": "Muntaha Hossain",
+                  "photo": "",
+                  "tagline": ""
+            }
+      ],
+      "following": [
+            {
+                  "id": 4,
+                  "uid": 23845729,
+                  "name": "Muntaha Hossain",
+                  "photo": "",
+                  "tagline": ""
+            }
+      ]
+}

@@ -1,0 +1,13 @@
+{
+      "id": 1,
+      "content": "Hello, how are you?",
+      "attachment": [
+            "https://google.com",
+            "https://google.com",
+            "https://google.com"
+      ],
+      "senderId": 123,
+      "receiverId": 456,
+      "groupId": 9834,
+      "timestamp": "2023-06-04T10:30:00Z"
+}
